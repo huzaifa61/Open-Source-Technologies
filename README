@@ -1,0 +1,18 @@
+#  Introduction to Python
+
+##***Welcome to your first iPython Notebook.***
+
+![python](https://cognitiveclass.ai/wp-content/uploads/2016/10/Machine-Learning-with-Python.png)
+
+## **About iPython Notebooks**
+
+iPython Notebooks are interactive coding environments embedded in a webpage. You will be using iPython notebooks in this class. You only need to write code between the ### START CODE HERE ### and ### END CODE HERE ### comments. After writing your code, you can run the cell by either pressing "SHIFT"+"ENTER" or by clicking on "Run Cell" (denoted by a play symbol) in the left bar of the cell.
+
+
+**In this notebook you will learn -**
+
+* Basic Syntax
+* Variables
+* Numbers
+* Casting
+* String
